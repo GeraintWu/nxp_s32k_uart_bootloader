@@ -2,8 +2,8 @@ Sources/mem_man.o: ../Sources/mem_man.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/lib_c99.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/mem_man.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/mem_man.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/stdbool.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ansi_parms.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewlGlobals.h \
@@ -24,7 +24,7 @@ Sources/mem_man.o: ../Sources/mem_man.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/limits_api.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/include/S32K118_features.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/devassert.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/common.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/common.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/include/S32K118.h
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/lib_c99.prefix:
@@ -33,9 +33,9 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/mem_man.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/mem_man.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/stdbool.h:
 
@@ -77,6 +77,6 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K11
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/devassert.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/common.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/common.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/include/S32K118.h:

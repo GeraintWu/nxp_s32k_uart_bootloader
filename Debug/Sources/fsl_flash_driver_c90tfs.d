@@ -2,7 +2,7 @@ Sources/fsl_flash_driver_c90tfs.o: ../Sources/fsl_flash_driver_c90tfs.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/lib_c99.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/stdbool.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ansi_parms.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewlGlobals.h \
@@ -30,7 +30,7 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/fsl_flash_driver_c90tfs.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/stdbool.h:
 

@@ -25,7 +25,7 @@
 "./Generated_Code/clockMan1.o"
 "./Generated_Code/Cpu.o"
 -T
-"C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Project_Settings/Linker_Files/S32K118_25_flash.ld"
+"C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Project_Settings/Linker_Files/S32K118_25_flash.ld"
 -Wl,-Map,"s32k118_uart_bootloader.map"
 -Xlinker
 --gc-sections

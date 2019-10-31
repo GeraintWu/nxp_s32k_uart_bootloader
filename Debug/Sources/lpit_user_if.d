@@ -2,7 +2,7 @@ Sources/lpit_user_if.o: ../Sources/lpit_user_if.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/lib_c99.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/lpit_user_if.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/lpit_user_if.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/string.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ansi_parms.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewlGlobals.h \
@@ -30,9 +30,9 @@ Sources/lpit_user_if.o: ../Sources/lpit_user_if.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/include/S32K118_features.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/devassert.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/interrupt_manager.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpit0.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/clockMan1.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/Cpu.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpit0.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/clockMan1.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/Cpu.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/clock.h \
  c:\nxp\s32ds_arm_v2018.r1\s32ds\s32sdk_s32k1xx_rtm_3.0.0\platform\drivers\src\clock\s32k1xx\clock_s32k1xx.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/edma_driver.h \
@@ -42,11 +42,11 @@ Sources/lpit_user_if.o: ../Sources/lpit_user_if.c \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/edma_driver.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/callbacks.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/startup/system_S32K118.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/pin_mux.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/pin_mux.h \
  C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/pins_driver.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpuart0.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/dmaController1.h \
- C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpit0.h
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpuart0.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/dmaController1.h \
+ C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpit0.h
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/lib_c99.prefix:
 
@@ -54,7 +54,7 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/common.prefix:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/ewl_c_version.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/include/lpit_user_if.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/include/lpit_user_if.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/string.h:
 
@@ -110,11 +110,11 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/devass
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/interrupt_manager.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpit0.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpit0.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/clockMan1.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/clockMan1.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/Cpu.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/Cpu.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/clock.h:
 
@@ -134,12 +134,12 @@ C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/callba
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/devices/S32K118/startup/system_S32K118.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/pin_mux.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/pin_mux.h:
 
 C:/NXP/S32DS_ARM_v2018.R1/S32DS/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc/pins_driver.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpuart0.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpuart0.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/dmaController1.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/dmaController1.h:
 
-C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/s32k118_uart_bootloader/Generated_Code/lpit0.h:
+C:/Workspace/NXP/S32/s32k_uart_boot/s32k118_uart_bootloader/Generated_Code/lpit0.h:

@@ -2,7 +2,7 @@
 <GenerationInfo_G_C>
   <Options>
     <ProjectName>s32k118_uart_bootloader</ProjectName>
-    <ProjectDirectory>C:\Workspace\NXP\S32\s32k_uart_boot\s32k118_uart_bootloader\s32k118_uart_bootloader\</ProjectDirectory>
+    <ProjectDirectory>C:\Workspace\NXP\S32\s32k_uart_boot\s32k118_uart_bootloader\</ProjectDirectory>
     <ProjectMainModuleName>main</ProjectMainModuleName>
     <DestEventsDirectory>Sources\</DestEventsDirectory>
     <DestDriversSubDirectory>..\Generated_Code\</DestDriversSubDirectory>
@@ -444,8 +444,8 @@
     <GenComponentVersion>01.197</GenComponentVersion>
     <GenDriverVersion>01.00</GenDriverVersion>
     <GenEventModule>Events</GenEventModule>
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>3</GenNumMethods>
     <SystemInit>true</SystemInit>
@@ -477,8 +477,8 @@
     <GenComponentVersion>1.2.0</GenComponentVersion>
     <GenDriverVersion>1.4</GenDriverVersion>
     <GenEventModule />
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>23</GenNumMethods>
     <PINS_DRV_Init>true</PINS_DRV_Init>
@@ -522,8 +522,8 @@
     <GenComponentVersion>SDK_S32K1xx_15</GenComponentVersion>
     <GenDriverVersion>01.00</GenDriverVersion>
     <GenEventModule />
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>6</GenNumMethods>
     <CLOCK_DRV_Init>true</CLOCK_DRV_Init>
@@ -586,8 +586,8 @@
     <GenComponentVersion>SDK_S32K1xx_15</GenComponentVersion>
     <GenDriverVersion>01.00</GenDriverVersion>
     <GenEventModule />
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>19</GenNumMethods>
     <LPUART_DRV_GetDefaultConfig>true</LPUART_DRV_GetDefaultConfig>
@@ -628,8 +628,8 @@
     <GenComponentVersion>SDK_S32K118_10</GenComponentVersion>
     <GenDriverVersion>01.00</GenDriverVersion>
     <GenEventModule />
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>32</GenNumMethods>
     <EDMA_DRV_Init>true</EDMA_DRV_Init>
@@ -712,8 +712,8 @@
     <GenComponentVersion>SDK_S32K1xx_15</GenComponentVersion>
     <GenDriverVersion>01.00</GenDriverVersion>
     <GenEventModule />
-    <HeaderAge>1331654472</HeaderAge>
-    <CodeAge>1331654472</CodeAge>
+    <HeaderAge>1331655755</HeaderAge>
+    <CodeAge>1331655755</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>19</GenNumMethods>
     <LPIT_DRV_GetDefaultConfig>true</LPIT_DRV_GetDefaultConfig>
